@@ -12,13 +12,9 @@
 		</a>
 	</p>
 	<h3 dir="auto"><a class="heading-link" href="#">Glad to see you here! 🔗</a></h3>
-	<p dir="auto">I am a front-end developer who is currently in charge of the front-end department of Madakto</p>
+	<p dir="auto">I am a front-end developer who is currently in charge of the front-end developer department of Madakto</p>
 	<p dir="auto">I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions</p>
-	<p dir="auto">I'm an explorer of new tech, an avid learner. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.</p>
-	<p dir="auto">Feel free to connect with me @NavidAzhirak7s for all things tech or just to say hello! Let's shape the future of tech together. 🌟</p>
-	<p dir="auto">Joined Github <strong>4</strong> years ago.</p>
-	<p dir="auto">Like My Work?</p>
-	<p dir="auto"><a href="https://www.linkedin.com/in/navid-azhirak-b64582171/" rel="nofollow"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" height="60px" width="217px" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p>
+	<p dir="auto">I'm an explorer of new tech, an avid learner. you'll find me watching tech-related YouTube videos, fueling my curiosity.</p>
 	<p dir="auto">
 		<animated-image data-catalyst="" style="float: right; width: 375px;">
 			<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" data-target="animated-image.originalLink">
@@ -41,11 +37,11 @@
 		<li>📰 &nbsp; Reading, writing &amp; watching Tech Stuff whenever possible.</li>
 	</ul>
 	<h3 dir="auto"><a class="heading-link" href="#languages-and-tools">Skills: 🔗</a></h3>
-	<ul style="display:inline-block;list-style:none;">
-		<li><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="git" style="max-width: 100%;"></code>
-	    <li><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="git" style="max-width: 100%;"></code>
-		<li><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" style="max-width: 100%;"></code>
-		<li><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" style="max-width: 100%;"></code>
-		<li><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" style="max-width: 100%;"></code>
-	</ul>
+	<span>
+		<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="git" style="max-width: 100%;"></code>
+		<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="git" style="max-width: 100%;"></code>
+		<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" style="max-width: 100%;"></code>
+		<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" style="max-width: 100%;"></code>
+		<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" style="max-width: 100%;"></code>
+	</span>
 </article>
