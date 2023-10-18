@@ -15,8 +15,8 @@
 	<p dir="auto">I am a front-end developer who is currently in charge of the front-end developer department of Madakto</p>
 	<p dir="auto">I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions</p>
 	<p dir="auto">I'm an explorer of new tech, an avid learner. you'll find me watching tech-related YouTube videos, fueling my curiosity.</p>
-	<p dir="auto">
-		<animated-image data-catalyst="" style="float: right; width: 375px;">
+	<span style="float: right; width: 375px;">
+		<animated-image data-catalyst="">
 			<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" data-target="animated-image.originalLink">
 				<img height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 			</a>
@@ -24,7 +24,7 @@
 				<a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" target="_blank"></a>
 			</span> 
 		</animated-image>
-	</p>
+	</span>
 	<h3 dir="auto"><a class="heading-link" href="#talking-about-personal-stuff">Talking about Personal Stuff: 🔗</a></h3>
 	<ul dir="auto">
 		<li>🛠 &nbsp; I’m currently working with JS, Jquery, Scss, ReactJs</li>
